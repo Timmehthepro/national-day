@@ -1,0 +1,11 @@
+.h1 {
+    text-align: center;
+}
+body {
+    background-color: rgb(244, 101, 101);
+    color: white;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px ;
+}
+
